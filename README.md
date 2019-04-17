@@ -2,13 +2,13 @@
 
 See eBooks and Audio Books in Stremio based on the iTunes API and RSS feed.
 
-It also includes stream results with external URLs to where you can buy the books.
+This add-on gives ebook / audio book price results from various APIs and also has Free Sample audios (that play in Stremio) for some of the audio books.
 
 
 ## Features
 
 - Three Catalogs: Top Paid Books, Top Free Books, Top Audio Books
-- Responds to streams request with external URLs to: iTunes, Audible, GoodReads and AudioBooks.com
+- Responds to stream request with external URLs (and sample audios) to: iTunes, Audible, AudioBooks.com, DownPour and Rakuten
 - Searching eBooks and Audio Books
 
 
